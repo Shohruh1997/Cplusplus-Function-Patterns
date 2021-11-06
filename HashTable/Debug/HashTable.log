@@ -1,0 +1,5 @@
+﻿  hash.cpp
+E:\programms\visual\vis\VC\Tools\MSVC\14.29.30133\include\yvals.h(12,10): fatal error C1083: Не удается открыть файл включение: crtdbg.h: No such file or directory,
+  HashTable.cpp
+E:\programms\visual\vis\VC\Tools\MSVC\14.29.30133\include\yvals.h(12,10): fatal error C1083: Не удается открыть файл включение: crtdbg.h: No such file or directory,
+  Создание кода...
